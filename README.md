@@ -11,6 +11,6 @@
 - **Lab 4:** [Working with IR Sensor](./DayFour/readme.md).
 - **Lab 5:** [Working with LDR Sensor](./DayFive/readme.md).
 - **Lab 6:** [Working with DHT11 Sensor](./DaySix/readme.md).
-- **Lab 7:** [Working with Temp and Soil Moisture Sensor](./DaySix/readme.md).
+- **Lab 7:** [Working with Temp and Soil Moisture Sensor](./DaySeven/readme.md).
 
 ---
